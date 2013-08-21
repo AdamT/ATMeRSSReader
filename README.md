@@ -1,4 +1,6 @@
-# An RSS reader for AdamTal.me
+# ATMeRSSReader
+
+An RSS reader for AdamTal.me
 
 ![alt tag](https://raw.github.com/AdamT/ATMeRSSReader/master/landing.png)
 ![alt tag](https://raw.github.com/AdamT/ATMeRSSReader/master/post.png)
